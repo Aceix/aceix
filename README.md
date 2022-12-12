@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Kwesi, an ever-learning extraordinary software engineer and designer.
+I'm Kwesi, an ever-learning extraordinary engineer and designer.
 
 Big fan of motorsports 🏎️🏍️🏁 and open-source software 👨‍💻😎!
 
