@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-I'm Kwesi, an ever-learning extraordinary engineer and designer.
+I'm Aceix, an ever-learning extraordinary engineer and designer.
 
 Big fan of motorsports 🏎️🏍️🏁 and open-source software 👨‍💻😎!
 
 
 #### Experience
+
+- With my skills in [TypeScript](https://www.typescriptlang.org/) and [Go](https://go.dev/), I am helping to develop a wiregaurd-based VPN platform that securely connects computers located around the globe and over the insecure internet, with great ease.
 
 - I developed 12factor-compliant microservices for a PoC trading engine with Java Spring boot which communicated via [SOAP](https://www.w3.org/TR/2000/NOTE-SOAP-20000508/), [REST](https://en.wikipedia.org/wiki/Representational_state_transfer), [PubSub](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) and [Message Queue](https://en.wikipedia.org/wiki/Message_queue).
 To facilitate easy testing, integration and deployment, I also built CI/CD pipelines with Github Actions.
@@ -20,12 +22,14 @@ To facilitate easy testing, integration and deployment, I also built CI/CD pipel
   
   Tech: `Java`, `Angular`, `Microsoft SQL Server`, `SQL`, `Terraform`, `Azure`, `Datadog`
 
-- I have also worked on other projects where I gained substantial experience in `React`, `Go`, `Electron`, `IoT`, `Blockchain/Web3.0`. Some projects are:
+- I have also worked on other projects where I gained substantial experience in `React`, `React Native`, `Go`, `Electron`, `IoT`, `Blockchain/Web3.0`. Some projects are:
   - Regulus (https://regulus.finance/)
   - GoFiber Docs (https://gofiber.io/)
   - Gofer (https://gofer.com.gh/)
   - Youdle (https://github.com/Aceix/youdle)
   - Rescript (https://github.com/Aceix/rescript)
+  - FeelBetter Health (https://feelbetter.health/)
+  - UniSalad (https://www.unisalad.com/)
 
 Although I love [Vue](https://vuejs.org/) and [Go](https://go.dev/) 😊, I pick the right tool for a task, considering things like community, maintainability and ease of use.
 
