@@ -32,6 +32,8 @@ To facilitate easy testing, integration and deployment, I also built CI/CD pipel
   - FeelBetter Health (https://feelbetter.health/)
   - UniSalad (https://www.unisalad.com/)
 
+I am a `Systems Architecture` learner and `Machine Learning` rookie.
+
 Although I love [Vue](https://vuejs.org/) and [Go](https://go.dev/) 😊, I pick the right tool for a task, considering things like community, maintainability and ease of use.
 
 ```go
