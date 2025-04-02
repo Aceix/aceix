@@ -10,6 +10,8 @@ Big fan of motorsports 🏎️🏍️🏁 and open-source software 👨‍💻�
 - With my skills in [TypeScript](https://www.typescriptlang.org/) and [Go](https://go.dev/), I am helping to develop a wiregaurd-based VPN platform that securely connects computers located around the globe and over the insecure internet, with great ease.
 Check it out here => [Netmaker](https://www.netmaker.io/)
 
+  Tech: `TypeScript`, `React`, `Go`, `Github Actions`, `Kubernetes`
+
 - I developed 12factor-compliant microservices for a PoC trading engine with Java Spring boot which communicated via [SOAP](https://www.w3.org/TR/2000/NOTE-SOAP-20000508/), [REST](https://en.wikipedia.org/wiki/Representational_state_transfer), [PubSub](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) and [Message Queue](https://en.wikipedia.org/wiki/Message_queue).
 To facilitate easy testing, integration and deployment, I also built CI/CD pipelines with Github Actions.
   
@@ -32,7 +34,7 @@ To facilitate easy testing, integration and deployment, I also built CI/CD pipel
   - FeelBetter Health (https://feelbetter.health/)
   - UniSalad (https://www.unisalad.com/)
 
-I dabble with `Web Security`, `Systems Architecture`, `Machine Learning` when less busy. Leetcoding is a dying hobby i might revive.
+I dabble with `Web Security`, `Systems Architecture`, `Machine Learning` when less busy. Leetcoding is a dying hobby I might revive.
 
 Although I love [Vue](https://vuejs.org/) and [Go](https://go.dev/) 😊, I pick the right tool for a task, considering things like community, maintainability and ease of use.
 
