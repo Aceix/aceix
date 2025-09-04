@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-I'm Aceix, an ever-learning extraordinary engineer and designer.
+I'm Aceix, an ever-learning extraordinary engineer and designer with track record of building with speed, even in the pre-LLM era.
 
-Big fan of motorsports 🏎️🏍️🏁 and open-source software 👨‍💻😎!
+Big fan of motorsports 🏎️🏍️🏁 and open-source software 👨‍💻. I use Arch BTW! 😎
 
 
 #### Experience
 
-- With my skills in [TypeScript](https://www.typescriptlang.org/) and [Go](https://go.dev/), I am helping to develop a wiregaurd-based VPN platform that securely connects computers located around the globe and over the insecure internet, with great ease.
+- With my skills in [TypeScript](https://www.typescriptlang.org/) and [Go](https://go.dev/), I helped to develop a wiregaurd-based zero-trust platform that securely connects computers located around the globe and over the insecure internet, with great ease. I built a dektop app in Go and then, Electron (TS) to easily enable end users to join their secure networks.
 Check it out here => [Netmaker](https://www.netmaker.io/)
 
-  Tech: `TypeScript`, `React`, `Go`, `Github Actions`, `Kubernetes`
+  Tech: `TypeScript`, `React`, `Go`, `Github Actions`, `Kubernetes`, `Docker`, `Electron`
 
 - I developed 12factor-compliant microservices for a PoC trading engine with Java Spring boot which communicated via [SOAP](https://www.w3.org/TR/2000/NOTE-SOAP-20000508/), [REST](https://en.wikipedia.org/wiki/Representational_state_transfer), [PubSub](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) and [Message Queue](https://en.wikipedia.org/wiki/Message_queue).
 To facilitate easy testing, integration and deployment, I also built CI/CD pipelines with Github Actions.
