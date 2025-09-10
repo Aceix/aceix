@@ -25,14 +25,14 @@ To facilitate easy testing, integration and deployment, I also built CI/CD pipel
   
   Tech: `Java`, `Angular`, `Microsoft SQL Server`, `SQL`, `Terraform`, `Azure`, `Datadog`
 
-- I have also worked on other projects where I gained substantial experience in `React`, `React Native`, `Go`, `Electron`, `IoT`, `Blockchain/Web3.0`. Some projects are:
+- I have also worked on other projects where I gained substantial experience in `Vue/Nuxt`, `React/Next`, `React Native`, `Go`, `Electron`, `IoT`, `Blockchain/Web3.0`. Some projects are:
   - Regulus (https://regulus.finance/)
   - GoFiber Docs (https://gofiber.io/)
-  - Gofer (https://gofer.com.gh/)
+  - CareFusion (https://carefusion.health)
   - Youdle (https://github.com/Aceix/youdle)
   - Rescript (https://github.com/Aceix/rescript)
-  - FeelBetter Health (https://feelbetter.health/)
   - UniSalad (https://www.unisalad.com/)
+  - Gofer (https://gofer.com.gh/)
 
 I dabble with `Web Security`, `Systems Architecture`, `Machine Learning` when less busy. Leetcoding is a dying hobby I might revive.
 
