@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Aceix, an ever-learning extraordinary engineer and designer with track record of building with speed, even in the pre-LLM era.
+I'm Aceix, an ever-learning extraordinary engineer and designer with track record of building with speed, even in the pre-LLM era. Now, I leverage autonomous agents to speed up my workflow.
 
 Big fan of motorsports 🏎️🏍️🏁 and open-source software 👨‍💻. I use Arch BTW! 😎
 
