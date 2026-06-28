@@ -1,21 +1,25 @@
 ### Hi there 👋
 
-I'm Aceix, an ever-learning extraordinary engineer and designer with track record of building with speed, even in the pre-LLM era. Now, I leverage autonomous agents to speed up my workflow.
+I'm Aceix, an ever-learning extraordinary engineer and designer with track record of building with speed, even in the pre-LLM era. Now, I leverage autonomous agents to even speed up my workflow.
 
 Big fan of motorsports 🏎️🏍️🏁 and open-source software 👨‍💻. I use Arch BTW! 😎
 
 
 #### Experience
 
+- Supercharged by AI (LLMs), I architect and develop highly concurrent [Spring Boot](https://spring.io/projects/spring-boot/) microservices to power an card issuer proecessing system, that validates thousands of payment transactions and provide valuable insights for the various stakeholders, including cardholders. I mentor junior developers as well, in various languages including Python, PHP and C. I also guide feature development (sometimes build) on the frontend. I am abreast with building systems that meet stringent standards like PCI-DSS and SOC2.
+
+  Tech: `Spring Boot`, `AWS`, `PCI-DSS`, `SOC-2`, `Linux`, `TypeScript`, `React`, `MySQL`
+
 - With my skills in [TypeScript](https://www.typescriptlang.org/) and [Go](https://go.dev/), I helped to develop a wiregaurd-based zero-trust platform that securely connects computers located around the globe and over the insecure internet, with great ease. I built a dektop app in Go and then, Electron (TS) to easily enable end users to join their secure networks.
 Check it out here => [Netmaker](https://www.netmaker.io/)
 
-  Tech: `TypeScript`, `React`, `Go`, `Github Actions`, `Kubernetes`, `Docker`, `Electron`
+  Tech: `TypeScript`, `React`, `Go`, `Github Actions`, `Kubernetes`, `Docker`, `Electron`, `Sqlite`, `Postgres`
 
-- I developed 12factor-compliant microservices for a PoC trading engine with Java Spring boot which communicated via [SOAP](https://www.w3.org/TR/2000/NOTE-SOAP-20000508/), [REST](https://en.wikipedia.org/wiki/Representational_state_transfer), [PubSub](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) and [Message Queue](https://en.wikipedia.org/wiki/Message_queue).
+- Part of a global remote team, I built a rule engine that powered a global settlement system, processing transactions worth millions of dollars each day. To maintain robustness, I employed automated testing on a PR level as well as E2E testing for releases. I developed reporting and monitoring to increase observability in our microservice. I also managed infrastructure with code, for predictability and easy auditing. I also developed 12factor-compliant microservices for a PoC trading engine with Java Spring boot which communicated via [SOAP](https://www.w3.org/TR/2000/NOTE-SOAP-20000508/), [REST](https://en.wikipedia.org/wiki/Representational_state_transfer), [PubSub](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) and [Message Queue](https://en.wikipedia.org/wiki/Message_queue).
 To facilitate easy testing, integration and deployment, I also built CI/CD pipelines with Github Actions.
   
-  Tech: `Java Spring boot`, `Heroku`, `GitHub Actions`, `Postgres`, `Angular`
+  Tech: `Java`, `Spring boot`, `Datadog`, `Azure`, `MS SQL Server`, `Terraform`, `Heroku`, `GitHub Actions`, `Postgres`, `Angular`
 
 - I built a multitenant healthcare platform frontend with [Vue](https://vuejs.org/), using [Vuex](https://vuex.vuejs.org/) for state management, whiles strictly following the MVVM model. The web application featured [WebRTC](https://webrtc.org/) for telemedicine support, [WebSockets](https://datatracker.ietf.org/doc/html/rfc6455) for live update of patient EMR and appointments data. I optimised the load times with [Webpack code splitting](https://webpack.js.org/guides/code-splitting/). I implemented Role-based Access Control (RBAC) on the frontend, to show authorised users what is relevant and enabled to them. I also worked on deploying the app on AWS S3 and CloudFront edge locations for better load times.
   
